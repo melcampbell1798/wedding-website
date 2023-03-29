@@ -1,6 +1,6 @@
 baseurl = "https://www.melcampbell1798.github.io/"
-title = "Black & Light"
-author = "David Hamp-Gonsalves"
+title = "MC & AL"
+author = "Melissa Campbell and Alex Lyons"
 canonifyurls = true
 languagecode = "en"
 theme = "black-and-light"
@@ -9,7 +9,7 @@ pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
 [params]
-  sitename = "Black & Light"
+  sitename = "Alex and Melissa's Wedding Website"
   disableWebFonts = false
 
 [[menu.main]]
