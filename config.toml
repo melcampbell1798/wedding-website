@@ -9,7 +9,7 @@ pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
 [params]
-  sitename = "Alex and Melissa's Wedding Website"
+  sitename = "Alex & Melissa's Wedding"
   disableWebFonts = false
 
 [[menu.main]]
