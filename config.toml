@@ -1,4 +1,4 @@
-baseurl = "https://www.melcampbell1798.github.io/"
+baseurl = "https://melcampbell1798.github.io/wedding-website"
 title = "MC & AL"
 author = "Melissa Campbell and Alex Lyons"
 canonifyurls = true
@@ -13,11 +13,11 @@ pygmentscodefences  = true
   disableWebFonts = false
 
 [[menu.main]]
-    name = "About"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+    name = "Details"
+    url  = "https://melcampbell1798.github.io/wedding-website/details"
 [[menu.main]]
-    name = "Projects"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+    name = "Registry"
+    url  = "https://melcampbell1798.github.io/wedding-website/registry"
 [[menu.main]]
-    name = "Resume"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+    name = "RSVP"
+    url  = "https://melcampbell1798.github.io/wedding-website/details/rsvp"
