@@ -32,4 +32,6 @@ Installed black and light theme https://github.com/davidhampgonsalves/hugo-black
 
 added nojekyl to bypass build
 
-that didn't work, change to github actions instead
+that didn't work, change to github actions instead.
+
+Don't build from source, use github actions and choose hugo template.
