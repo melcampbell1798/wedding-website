@@ -35,3 +35,11 @@ added nojekyl to bypass build
 that didn't work, change to github actions instead.
 
 Don't build from source, use github actions and choose hugo template.
+
+
+committing in submodules
+
+https://stackoverflow.com/questions/14233939/git-submodule-commit-push-pull
+
+
+Cop out: skipping sub modules for now
