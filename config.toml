@@ -20,4 +20,4 @@ pygmentscodefences  = true
     url  = "https://melcampbell1798.github.io/wedding-website/registry"
 [[menu.main]]
     name = "RSVP"
-    url  = "https://melcampbell1798.github.io/wedding-website/details/rsvp"
+    url  = "https://melcampbell1798.github.io/wedding-website/rsvp"
