@@ -21,6 +21,3 @@ pygmentscodefences  = true
 [[menu.main]]
     name = "RSVP"
     url  = "https://melcampbell1798.github.io/wedding-website/rsvp"
-[[menu.main]]
-    name = "Hotel"
-    url  = "https://www.nantasketbeachresort.com/"
